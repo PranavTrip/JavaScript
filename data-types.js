@@ -1,0 +1,10 @@
+let num1 = 15;
+console.log("The type of num1 is " + typeof num1);
+let num2 = 15.5;
+console.log("The type of num2 is " + typeof num2);
+let str = "Pranav";
+console.log("The type of str is " + typeof str);
+let arr = [1, 2, 3, 4, 5, "None"];
+console.log("The type of arr is " + typeof arr);
+let obj = { name: "Pranav", age: 19, role: "Student" };
+console.log("The type of obj is " + typeof obj);
